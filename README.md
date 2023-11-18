@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @THINK-BOY
-- 👀 I’m interested in ...u
-- 🌱 I’m currently learning ...nothing
-- 💞️ I’m looking to collaborate on ...soul
-- 📫 How to reach me ...haven
+- 👋 Hi, I’m @THINK-BOY an Electronics and Communication Engineer
+- 👀 I’m interested in ...Computer science and development
+- 
 
 <!---
 THINK-BOY/THINK-BOY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
